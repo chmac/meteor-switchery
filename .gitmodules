@@ -1,0 +1,3 @@
+[submodule "lib/switchery"]
+	path = lib/switchery
+	url = git@github.com:abpetkov/switchery.git
