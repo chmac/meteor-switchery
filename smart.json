@@ -1,0 +1,8 @@
+{
+"name": "switchery",
+"description": "iOS 7 style switches for your checkboxes",
+"homepage": "https://github.com/chmac/meteor-switchery",
+"author": "Callum Macdonald (http://www.callum-macdonald.com/)",
+"version": "0.6.0",
+"git": "https://github.com/chmac/meteor-switchery.git"
+}
